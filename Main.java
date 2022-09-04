@@ -27,6 +27,7 @@ public class Main{
 				trash = scanner.nextLine();
 			}
 		}
+		listA.sort(null);;
 		System.out.println(listA);
 	}
 }
